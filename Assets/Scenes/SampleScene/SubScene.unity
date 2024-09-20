@@ -282,7 +282,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Prefab: {fileID: 5545628544344575555, guid: 49f54a5b18b305f41803936ce52405a1, type: 3}
-  Radius: 3
+  Radius: 5
   SpawnRate: 1
   WaveLength: 10
   WaveColdown: 15
